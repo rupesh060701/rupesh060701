@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning how to integrate AI into MERN projects.
 
-- 💬 Ask me about **MERN Stack Development, Machine Learning**
+- 💬 Ask me about **MERN Stack Development**
 
 - 📫 How to reach me **rkchourasia2001@gmail.com**
 
