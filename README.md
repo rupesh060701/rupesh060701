@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh060701&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh060701" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning how to integrate AI into MERN projects.
 
 - 💬 Ask me about **MERN Stack Development, Machine Learning**
 
